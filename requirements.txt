@@ -1,0 +1,10 @@
+pandas
+langchain-core
+langchain-community
+langchain-classic
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+ctransformers>=0.2.27
+notebook
